@@ -3,7 +3,7 @@
 I build **civic technology and digital education tools for Kenya** — local-first,
 offline-capable, and designed for low-end devices and real-world connectivity.
 
-🌍 Working with **IDI ActionLab / Jabali Studios**
+🌍 Working with **Jabali Studios**
 
 **What I'm building**
 - **Digital Mapema** — a local-first learning PWA for Kenyan children (7–12), with a
